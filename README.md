@@ -9,4 +9,4 @@ To get started with these agent skills, you can use:
 bunx skills add phenome/skills
 ```
 
-This command will add the phenome/skills to your project, enabling you to use the agent skills provided by this repository.
+This command will install the agent skills from this repository into your project.
